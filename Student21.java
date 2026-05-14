@@ -5,7 +5,7 @@ public class Student21 {
     public Student21() {
 
     }
-
+    
     public Student21(String nm, String nama, String kls, double ipk) {
         nim = nm;
         name = nama; 
